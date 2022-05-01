@@ -17,3 +17,4 @@ Tomando como base los "notebooks" "barchart" y "api-pandas-folium" que hemos rea
 ### Práctica 4
 
 Esta práctica consistió en la la realización de un notebook en jupyter con Python donde se utilizan ciertos datos, se documenta el proceso de análisis de datos que incluye su visualización y se bosqueja una historia con los mismos. Yo he elegido datos sobre infracciones en Alcobendas durante las restricciones de COVID-19 proporcionados por el mismo ayuntamiento de Alcobendas.
+# RocioRanz
